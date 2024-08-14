@@ -1,0 +1,1 @@
+cursor="hand2"
